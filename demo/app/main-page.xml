@@ -1,0 +1,6 @@
+<Page
+    xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
+    <StackLayout>
+        <Label text="ePub reader" class="message" textWrap="true"/>
+    </StackLayout>
+</Page>
