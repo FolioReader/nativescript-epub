@@ -1,4 +1,7 @@
 # NativeScript ePub Reader Plugin
+[![npm](https://img.shields.io/npm/v/nativescript-epub.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/nativescript-epub) 
+[![npm](https://img.shields.io/npm/dt/nativescript-epub.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/nativescript-epub)
+
 NativeScript plugin to open and read ePub files natively. Currently only supported on iOS.
 
 
